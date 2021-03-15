@@ -1,0 +1,32 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCannon33/budget-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCannon33/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/MCannon33/budget-tracker#readme",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack": "^5.25.1",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-pwa-manifest": "^4.3.0"
+  },
+  "dependencies": {
+    "image-webpack-loader": "^7.0.1"
+  }
+}
