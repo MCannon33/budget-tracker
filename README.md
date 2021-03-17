@@ -6,7 +6,7 @@
 
 _MONGO DB, INDEXDB, & HEROKU_
 
-![Budget Tracker Cover](./css/budget.png)
+![Budget Tracker Cover](/public/css/budget.png)
 
 ---
 
